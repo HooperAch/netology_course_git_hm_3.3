@@ -17,6 +17,6 @@ git status
 ```
 
 **Инересные цвета:**
-* [ ] `rgb(0, 0, 255)` <font color="FF0000">Синий</font>
-* [ ] `rgb(255, 0, 0)` <font color="00FF00">Красный</font>
-* [X] `rgb(0, 0, 255)` <font color="0000FF">Зеленый</font>
+* [ ] `rgb(0, 0, 255)` <font color="0000FF">Синий</font>
+* [ ] `rgb(255, 0, 0)` <font color="FF0000">Красный</font>
+* [X] `rgb(0, 0, 255)` <font color="00FF00">Зеленый</font>
